@@ -1,7 +1,6 @@
 # YouTube-Video-Downloader
-Here is the entire `README.md` file content that you can copy and paste directly into your repository:
 
-```markdown
+
 # YouTube Video Downloader Script
 
 This is a simple Python script that allows you to download YouTube videos, audio, and videos with subtitles using the `yt-dlp` library. The script provides options to choose video resolutions, download audio in MP3 format, and even download subtitles in English.
