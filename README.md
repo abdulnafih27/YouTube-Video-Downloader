@@ -81,6 +81,3 @@ This project is for educational purposes only. It is not intended for commercial
 ---
 
 Feel free to contribute or improve this script by creating a pull request or providing feedback.
-```
-
-You can now copy and paste this directly into your `README.md` file on GitHub. It includes all the necessary instructions, features, and licensing details for your project.
